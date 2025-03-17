@@ -36,7 +36,7 @@ const Sobre = () => {
                     <span>
                         <FontAwesomeIcon icon={faCheck} />
                     </span>
-                    <p className="font-light">Tepyscript</p>
+                    <p className="font-light">Typescript</p>
                 </li>
                 <li className="flex gap-2">
                     <span>
